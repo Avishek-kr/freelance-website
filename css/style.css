@@ -204,7 +204,7 @@ form{
 }
 
 .field input[type='text'],
-.field input[type='tel'],
+.field input[type='number'],
 .field input[type='mail'],
 .field textarea{
     flex: 1;
